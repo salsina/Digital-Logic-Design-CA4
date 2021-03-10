@@ -1,0 +1,50 @@
+C:/Users/Sina/Desktop/dld-ca4/smbs.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/smbs.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module smbs
+
+Top level modules:
+	smbs
+
+} {} {}} C:/Users/Sina/Desktop/dld-ca4/tb.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/tb.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/Sina/Desktop/dld-ca4/tb_register.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/tb_register.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_register
+
+Top level modules:
+	tb_register
+
+} {} {}} C:/Users/Sina/Desktop/dld-ca4/right_shift_register.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/right_shift_register.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module right_shift_register
+
+Top level modules:
+	right_shift_register
+
+} {} {}} C:/Users/Sina/Desktop/dld-ca4/r_S_register_always.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/r_S_register_always.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module r_S_register_always
+
+Top level modules:
+	r_S_register_always
+
+} {} {}} C:/Users/Sina/Desktop/dld-ca4/controller.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/controller.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Sina/Desktop/dld-ca4/flipflop.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/dld-ca4/flipflop.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}}
